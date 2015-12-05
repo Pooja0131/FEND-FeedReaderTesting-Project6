@@ -38,4 +38,4 @@ actually changes.
 ######Screenshot
 
 
-![Screenshot](https://cloud.githubusercontent.com/assets/12447584/11315889/0c03b40c-8fc8-11e5-9e6e-5e6bcff72f64.png)
+![Screenshot](https://github.com/Pooja0131/FEND-FeedReaderTesting-Project6/blob/master/images/screenshot1.png)
